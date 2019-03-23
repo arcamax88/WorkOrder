@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\Ipm.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\WorkOrder.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\WorkOrder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\List_of_Currently_Used_Tester.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\Parameters.txt
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\MedicalEquipmentTester.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Release\MedicalEquipmentTester.pdb

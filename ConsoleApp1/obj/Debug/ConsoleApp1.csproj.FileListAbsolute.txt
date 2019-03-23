@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\WorkOrder.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\WorkOrder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\Ipm.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\MedicalEquipmentTester.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\MedicalEquipmentTester.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\List_of_Currently_Used_Tester.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\ConsoleApp1\bin\Debug\Parameters.txt

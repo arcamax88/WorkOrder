@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\WorkOrder.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\WorkOrder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\MedicalEquipmentTester.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\System.IO.Packaging.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\MedicalEquipmentTester.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.csprojAssemblyReference.cache
