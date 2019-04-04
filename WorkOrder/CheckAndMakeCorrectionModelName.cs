@@ -14,6 +14,37 @@ namespace WorkOrder
 
             switch (inModelName)
             {
+                case "775":
+                    {
+                        outModelName = "BAIR HUGGER";
+                        break;
+                    }
+                case "88006140":
+                    {
+                        outModelName = "LCSU 4";
+                        break;
+                    }
+                case "865241":
+                    {
+                        outModelName = "Intellivue MX700";
+                        break;
+                    }
+                case "865243":
+                    {
+                        outModelName = "FMS-4";
+                        break;
+                    }
+                case "866062":
+                    {
+                        outModelName = "INTELLIVUE MX450";
+                        break;
+                    }
+
+                case "M3002A":
+                    {
+                        outModelName = "INTELLIVUE X2";
+                        break;
+                    }
                 case "1110063":
                     {
                         outModelName = "INNOSPIRE DELUXE";

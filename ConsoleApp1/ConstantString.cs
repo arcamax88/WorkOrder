@@ -8,9 +8,9 @@ namespace ConsoleApp1
     public class ConstantString
     {
         public const string OutputFile = "Output WordDocument.docx";
-        public const string MainFolder = @"C:\1AutoCompleteForm\";
-        public const string IpmFormFolder = @"C:\1AutoCompleteForm\IpmForm\";
-        public const string IpmFormCompletedFolder = @"C:\1AutoCompleteForm\CompletedForms\";
+        public const string MainFolder = @"C:\Users\ArcayosR\source\repos\1AutoCompleteForm";
+        public const string IpmFormFolder = @"C:\Users\ArcayosR\source\repos\1AutoCompleteForm\IpmForm\";
+        public const string IpmFormCompletedFolder = @"C:\Users\ArcayosR\source\repos\1AutoCompleteForm\CompletedForms\";
 
         public const string RadiantWarmer = IpmFormFolder + "radiant_warmer.docx";
         public const string Phototheraphy = IpmFormFolder + "phototheraphy.docx";

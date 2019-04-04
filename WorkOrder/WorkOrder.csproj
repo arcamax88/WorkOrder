@@ -54,6 +54,7 @@
     <Compile Include="AIMSExport.cs" />
     <Compile Include="CheckAndMakeCorrectionDepartmentName.cs" />
     <Compile Include="CheckAndMakeCorrectionEmployeeName.cs" />
+    <Compile Include="CheckAndMakeCorrectionHospitalName.cs" />
     <Compile Include="CheckAndMakeCorrectionManufacturerName.cs" />
     <Compile Include="CheckAndMakeCorrectionModelName.cs" />
     <Compile Include="CheckAndReplaceEmptyString.cs" />

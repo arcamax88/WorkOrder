@@ -9,3 +9,13 @@ C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrde
 C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\bin\Release\MedicalEquipmentTester.pdb
 C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.csproj.CopyComplete
 C:\Users\Administrator\Documents\Visual Studio 2017\WorkOrder\WorkOrder\WorkOrder\obj\Release\WorkOrder.csprojAssemblyReference.cache
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\bin\Release\WorkOrder.dll
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\bin\Release\WorkOrder.pdb
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\bin\Release\System.IO.Packaging.dll
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\bin\Release\MedicalEquipmentTester.pdb
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\obj\Release\WorkOrder.csprojAssemblyReference.cache
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\obj\Release\WorkOrder.csproj.CoreCompileInputs.cache
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\obj\Release\WorkOrder.csproj.CopyComplete
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\obj\Release\WorkOrder.dll
+C:\Users\ArcayosR\source\repos\WorkOrder\WorkOrder\obj\Release\WorkOrder.pdb

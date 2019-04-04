@@ -89,10 +89,10 @@ namespace WorkOrder
             _employeeName = CheckAndMakeCorrectionEmployeeName.Action(employeeName);
             _date = date.Substring(0, 10);
             _controlNumber = controlNumber;
-            _serialNumber = serialNumber;
+            _serialNumber = CheckAndReplaceEmptyString.Action(serialNumber);
             _manufacturerName = CheckAndMakeCorrectionManufacturerName.Action(manufacturerName);
             _modelName = CheckAndMakeCorrectionModelName.Action(modelName);
-            _hospitalName = hospitalName;
+            _hospitalName = CheckAndMakeCorrectionHospitalName.Action(hospitalName);
             _departmentName = CheckAndMakeCorrectionForDepartmentName.Action(departmentName);
             _action = action;
         }
